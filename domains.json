@@ -7,7 +7,7 @@
     "entities": 1896,
     "claims": 12,
     "abstraction_label": "A family of automobile technologies.",
-    "updated_at": "2026-03-16T04:23:04.900182Z"
+    "updated_at": "2026-03-16T04:56:38.103121Z"
   },
   {
     "slug": "battery",
@@ -17,7 +17,17 @@
     "entities": 860,
     "claims": 88,
     "abstraction_label": "A family of battery technologies.",
-    "updated_at": "2026-03-16T04:16:25.963919Z"
+    "updated_at": "2026-03-16T04:48:38.275389Z"
+  },
+  {
+    "slug": "psychology",
+    "title": "psychology",
+    "sources": 1000,
+    "subgenres": 84,
+    "entities": 1144,
+    "claims": 0,
+    "abstraction_label": "A family of psychology technologies.",
+    "updated_at": "2026-03-16T05:00:48.742214Z"
   },
   {
     "slug": "sensor",
@@ -27,6 +37,6 @@
     "entities": 1753,
     "claims": 13,
     "abstraction_label": "A family of sensor technologies.",
-    "updated_at": "2026-03-16T04:20:07.859975Z"
+    "updated_at": "2026-03-16T04:52:32.327751Z"
   }
 ]
